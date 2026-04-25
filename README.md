@@ -2,12 +2,10 @@
 
 Projeto de landing page desenvolvido com foco em prática de HTML, CSS e responsividade.
 
-##Tecnologias
+#Tecnologias
 - HTML
 - CSS
 
-##Projeto
+#Projeto
 Landing page com tema gamer, focada em layout moderno e responsivo.
 
-##Status
-Finalizado
